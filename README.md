@@ -1,5 +1,5 @@
 # Projeto-Extensionista---MenuAcessivel
-# 🚀 Sugestões de Aprimoramento para o Projeto **MenuAcessível**
+# Sugestões de Aprimoramento para o Projeto **MenuAcessível**
 
 ## 1. Expansão de Objetivos
 Além de apenas **acessibilidade básica**, o projeto pode evoluir para:
@@ -49,5 +49,5 @@ Além de apenas **acessibilidade básica**, o projeto pode evoluir para:
 
 ---
 
-👉 Visão final: o **MenuAcessível** pode deixar de ser apenas um projeto acadêmico e se tornar uma **plataforma SaaS inclusiva**, com impacto real na sociedade e potencial de mercado.
+Visão final: o **MenuAcessível** pode deixar de ser apenas um projeto acadêmico e se tornar uma **plataforma SaaS inclusiva**, com impacto real na sociedade e potencial de mercado.
 
